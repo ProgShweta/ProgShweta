@@ -2,9 +2,9 @@ Hi, I'm Shweta Chaudhary! 👋
 
 🚀 About Me
 _________________________________________________________________________________________________________________________________________________________________________________________________________
-Hi, I'm Shwetal! 👋 🚀 About Me I am a Software Engineer with 2.2 years of experience in frontend development, specializing in building dynamic UI.
+ I am a Software Developer and I have 2.2 years of experience in frontend development, specializing in building dynamic UI.
 
-I hold a Bachelor of Technology  from BBDNIIT Lucknow and am passionate about continuous learning. I stay up-to-date with the latest trends and innovations in technology, especially in the rapidly evolving world of frontend development.
+I completed my Bachelor of Technology from BBDNIIT Lucknow(2022) and have a strong passion for continuous learning. I actively keep up with the latest trends and innovations in technology.
 
 🔗 Links
 _____________________________________________________________________________________________________________________________________________________________________________________________________________
